@@ -1,7 +1,7 @@
 
 # Karinna's first CS193 Lab
 ## 1/14/19
-### 2:30
+
 
 1. Learning new things
 2. Different than most classs
